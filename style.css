@@ -58,3 +58,24 @@ float:right;
 {
 color:orange;
 }
+
+.evs_li
+{
+margin-top:13px;
+}
+
+.evs_li h4
+{
+border-bottom:1px solid white;
+padding:8px;
+}
+
+.evs_li img
+{
+border-radius:25px;
+}
+
+.evs_li p
+{
+margin-top:10px;
+}
